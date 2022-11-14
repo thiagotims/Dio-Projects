@@ -1,4 +1,4 @@
-#### Desafio de Projeto - Diretrizes
+# Desafio de Projeto - Diretrizes
 A partir do projeto refinado do E-commerce, elaborado previamente, houve mais um refinamento, visando aplicar novos conhecimentos adquiridos ao longo do curso. Neste projeto, serão atendidas as seguintes diretrizes:
 
 **Diretrizes**
@@ -20,8 +20,8 @@ A partir do projeto refinado do E-commerce, elaborado previamente, houve mais um
 
 - Crie expressões para gerar atributos derivados​
 
-Defina ordenações dos dados com ORDER BY​
+- Defina ordenações dos dados com ORDER BY​
 
-Condições de filtros aos grupos – HAVING Statement​
+- Condições de filtros aos grupos – HAVING Statement​
 
-Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados
+- Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados
